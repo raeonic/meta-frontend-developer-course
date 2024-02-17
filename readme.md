@@ -17,7 +17,7 @@ Meta Front-End Developer Course
 2. [Building an object-oriented program](./2-programming-with-javascript/2-building-an-object-oriented-program/readme.md)
 3. [Array and object iteration](./2-programming-with-javascript/3-array-and-object-iteration/readme.md)
 4. [Writing a Unit Test](./2-programming-with-javascript/4-writing-a-unit-test/readme.md)
-5. [Little Lemon Receipt Maker]()
+5. [Little Lemon Receipt Maker](./2-programming-with-javascript/5-little-lemon-receipt-maker/readme.md)
 
 ## [Course](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer): Version Control
 
