@@ -13,10 +13,10 @@ Meta Front-End Developer Course
 
 ## [Course](https://www.coursera.org/learn/programming-with-javascript?specialization=meta-front-end-developer): Programming with JavaScript
 
-1. [Building a functional program]()
-2. [Building an object-oriented program]()
-3. [Array and object iteration]()
-4. [Writing a Unit Test]()
+1. [Building a functional program](./2-programming-with-javascript/1-building-a-functional-program/readme.md)
+2. [Building an object-oriented program](./2-programming-with-javascript/2-building-an-object-oriented-program/readme.md)
+3. [Array and object iteration](./2-programming-with-javascript/3-array-and-object-iteration/readme.md)
+4. [Writing a Unit Test](./2-programming-with-javascript/4-writing-a-unit-test/readme.md)
 5. [Little Lemon Receipt Maker]()
 
 ## [Course](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer): Version Control
