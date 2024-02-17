@@ -21,6 +21,9 @@ Meta Front-End Developer Course
 
 ## [Course](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer): Version Control
 
+1. [Your working directory](./3-version-control/1-your-working-directory/readme.md)
+2. [Make and change directories and files](./3-version-control/2-make-and-change-directories-and-files/readme.md)
+
 ## [Course](https://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer): HTML and CSS in depth
 
 ## [Course](https://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer): React Basics
